@@ -2,7 +2,7 @@
 
 A simple app showing the most basic streamlit functions
 
-[![Open in Streamlit][https://static.streamlit.io/badges/streamlit_badge_black_white.svg)][(http://localhost:8501)]]
+[![Open in Streamlit][(http://localhost:8501)]]
 ### How to run it on your own machine
 
 1. Install the requirements
