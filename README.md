@@ -2,8 +2,7 @@
 
 A simple app showing the most basic streamlit functions
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
-
+[![Open in Streamlit][(http://localhost:8501)]
 ### How to run it on your own machine
 
 1. Install the requirements
